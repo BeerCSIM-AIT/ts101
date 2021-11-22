@@ -280,7 +280,9 @@ let n2 = ["A","B","C","D"]
 console.log(getArray([n1,n2]));
 
 
-
+// tsc ==> compile at src
+// tsc --watch  ==> auto compile
+// node dist/index.js   (distributed files)
 
 
 
